@@ -1,0 +1,15 @@
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.deps.json
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.runtimeconfig.json
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.dll
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.pdb
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.csproj.AssemblyReference.cache
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.AssemblyInfo.cs
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.dll
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/refint/NumberGuesser.dll
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.pdb
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.genruntimeconfig.cache
+/Users/danieljohnrussell/C#VisualStudio/NumberGuesser/NumberGuesser/obj/Debug/net7.0/ref/NumberGuesser.dll

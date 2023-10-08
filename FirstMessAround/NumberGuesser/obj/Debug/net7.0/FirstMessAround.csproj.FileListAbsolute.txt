@@ -1,0 +1,15 @@
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/bin/Debug/net7.0/FirstMessAround
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/bin/Debug/net7.0/FirstMessAround.deps.json
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/bin/Debug/net7.0/FirstMessAround.runtimeconfig.json
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/bin/Debug/net7.0/FirstMessAround.dll
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/bin/Debug/net7.0/FirstMessAround.pdb
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.csproj.AssemblyReference.cache
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.AssemblyInfoInputs.cache
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.AssemblyInfo.cs
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.csproj.CoreCompileInputs.cache
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.dll
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/refint/FirstMessAround.dll
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.pdb
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/FirstMessAround.genruntimeconfig.cache
+/Users/danieljohnrussell/C#VisualStudio/FirstMessAround/NumberGuesser/obj/Debug/net7.0/ref/FirstMessAround.dll

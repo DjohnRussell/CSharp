@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMessAround", "NumberGuesser\FirstMessAround.csproj", "{CF0DDEE3-C145-4556-AADE-9089DA8CEE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0DDEE3-C145-4556-AADE-9089DA8CEE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0DDEE3-C145-4556-AADE-9089DA8CEE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0DDEE3-C145-4556-AADE-9089DA8CEE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0DDEE3-C145-4556-AADE-9089DA8CEE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8EE21CE-3C18-4CE4-859D-6436068104F9}
+	EndGlobalSection
+EndGlobal
